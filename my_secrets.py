@@ -1,6 +1,6 @@
-LINKEDIN_URL = 'https://www.linkedin.com/in/<your-account>'
-GITHUB_URL = 'https://github.com/<your_account>'
-COMPANY_NAME = 'Example_Company'
+LINKEDIN_URL = 'https://www.linkedin.com/in/<my_profile_page>'
+GITHUB_URL = 'https://github.com/Karolsoon'
+COMPANY_NAME = 'Default'
 
 class Contact_Data:
     name = 'Surname;Name'

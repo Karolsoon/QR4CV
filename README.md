@@ -32,10 +32,13 @@ And enjoy the view!
 <hr>
 
 - Github QR code
+
 ![QR Code with a link to my github page](example_output/github_qr.png)
 
 - Linkedin QR code
+
 ![QR Code with a link to my linkedin page](example_output/linkedin_qr.png)
 
 - Contact QR code (a.k.a. vCard 3.0)
-![QR Code with dummy contact data](example_output/contactb_qr.png)
+
+![QR Code with dummy contact data](example_output/contact_qr.png)
