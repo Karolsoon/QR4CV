@@ -1,3 +1,9 @@
+# Hi Recruiter! 
+## If you see this page then you probably have used the QR code from my CV. 
+## This is how I made it.
+
+<hr>
+
 QR4CV is a minimal Python class to create QR codes to be used in a CV. The class is built on top of [Segno](https://github.com/heuer/segno).
 
 ## Installation
