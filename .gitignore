@@ -1,0 +1,6 @@
+_landing/
+*__pycache__*
+my_real_secrets.py
+static/*
+output/*
+env/
