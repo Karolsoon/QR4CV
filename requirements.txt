@@ -1,0 +1,5 @@
+charset-normalizer==3.3.2
+idna==3.6
+pillow==10.2.0
+qrcode-artistic==3.0.2
+segno==1.6.0
