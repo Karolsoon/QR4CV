@@ -6,15 +6,15 @@ QR4CV is a minimal Python class to create QR codes to be used in a CV. The class
 $ git clone https://github.com/Karolsoon/QR4CV.git
 ```
 
-3. And use `pip` to install the dependencies:
+2. And use `pip` to install the dependencies:
 ```
 $ pip install -r requirements.txt
 ```
 
-4. Replace the dummy data in `my_secrets.py` with the one you need.
+3. Replace the dummy data in `my_secrets.py` with the one you need.
 
 
-5. Afterwards upload/create images to be used as part of your QR codes:
+4. Afterwards upload/create images to be used as part of your QR codes:
 ```
 static/linkedin-logo-black.png
 static/GitHub_Logo.png
@@ -24,7 +24,7 @@ static/contact-white.png
 ... or change the location in `main.py`.
 
 
-6. Finally run:
+5. Finally run:
 ```
 python main.py
 ```
